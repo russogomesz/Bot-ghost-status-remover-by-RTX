@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Loja Daex","Melhor loja do roblox","Compre e economize"];
+const statusMessages = ["🛒 Loja Daex","🌟 Melhor loja do roblox","💸 Compre e economize"];
 
 
 let currentIndex = 0;
