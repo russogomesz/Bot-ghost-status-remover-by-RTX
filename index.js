@@ -31,12 +31,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`🔗 Powered By RTX`);
+  console.log(`🎖️ Watching to Loja Daex: http://localhost:${port}`);
+  console.log(`🔗 Made by _russo.`);
 });
 
 
-const statusMessages = ["Watching Netflix","Listening to Spotify","Playing GTA VI"];
+const statusMessages = ["Loja Daex","Melhor loja do roblox","Compre e economize"];
 
 
 let currentIndex = 0;
