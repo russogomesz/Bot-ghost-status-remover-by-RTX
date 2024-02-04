@@ -31,8 +31,8 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🎖️ Watching to Loja Daex: http://localhost:${port}`);
-  console.log(`🔗 Made by _russo.`);
+  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
+  console.log(`🔗 Powered By RTX`);
 });
 
 
